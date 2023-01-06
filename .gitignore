@@ -1,0 +1,27 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Cinema Room Manager/*
+!/Cinema Room Manager/task/
+/Cinema Room Manager/task/*
+!/Cinema Room Manager/task/src/
+!/Cinema Room Manager/task/build.gradle
+!/Cinema Room Manager/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Declaring a method/Calculating factorials/out/
+/Topics/Declaring a method/Calculating factorials/out/production/classes/
+/Topics/Declaring a method/Sum of numbers in the range/out/
+/Topics/Declaring a method/Sum of numbers in the range/out/production/classes/
